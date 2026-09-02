@@ -1,10 +1,12 @@
 class Solution(object):
     def twoSum(self, numbers, target):
-        hashset={}
-        for i in range(len(numbers)):
-            num1=target-numbers[i]
-            if num1 in hashset:
-                return [hashset[num1],i+1]
+        left=0
+        right=len(numbers)-1
+        while left<right:
+            total=numbers[left]+numbers[right]
+            if target==total:
+                return [left+1,right+1]
+            elif total>target:
+                right-=1
             else:
-                hashset[numbers[i]]=i+1
-                
+                left+=1
