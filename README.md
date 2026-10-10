@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1268-search-suggestions-system](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1268-search-suggestions-system](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [1268-search-suggestions-system](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Union-Find
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1268-search-suggestions-system](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Greedy
 |  |
 | ------- |
@@ -83,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0567-permutation-in-string) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/1268-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
