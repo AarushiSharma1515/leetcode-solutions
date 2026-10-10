@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0973-k-closest-points-to-origin](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0973-k-closest-points-to-origin](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Union-Find
 |  |
@@ -94,5 +96,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/1268-search-suggestions-system) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
