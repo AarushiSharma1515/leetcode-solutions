@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Sorting
@@ -121,4 +122,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AarushiSharma1515/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
